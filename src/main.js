@@ -1,11 +1,11 @@
 let imgsarry = [
-    "src_pic/bwershapic/1.jpg",
-    "src_pic/bwershapic/2.jpg",
-    "src_pic/bwershapic/3.jpg",
-    "src_pic/bwershapic/4.jpg",
-    "src_pic/bwershapic/5.jpg",
-    "src_pic/bwershapic/6.jpg",
-    "src_pic/bwershapic/7.jpg"
+    "src/src_pic/bwershapic/1.jpg",
+    "src/src_pic/bwershapic/2.jpg",
+    "src/src_pic/bwershapic/3.jpg",
+    "src/src_pic/bwershapic/4.jpg",
+    "src/src_pic/bwershapic/5.jpg",
+    "src/src_pic/bwershapic/6.jpg",
+    "src/src_pic/bwershapic/7.jpg"
   ];
   
   let imgElements = [
