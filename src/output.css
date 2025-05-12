@@ -194,20 +194,8 @@
   .table {
     display: table;
   }
-  .h-\[00px\] {
-    height: 00px;
-  }
   .h-\[50\%\] {
     height: 50%;
-  }
-  .h-\[50\] {
-    height: 50;
-  }
-  .h-\[100px\] {
-    height: 100px;
-  }
-  .h-\[200\] {
-    height: 200;
   }
   .h-\[200px\] {
     height: 200px;
@@ -221,17 +209,8 @@
   .h-\[550px\] {
     height: 550px;
   }
-  .h-\[560px\] {
-    height: 560px;
-  }
-  .h-\[600px\] {
-    height: 600px;
-  }
   .h-\[800px\] {
     height: 800px;
-  }
-  .h-\[1000px\] {
-    height: 1000px;
   }
   .h-full {
     height: 100%;
@@ -253,9 +232,6 @@
   }
   .w-\[800px\] {
     width: 800px;
-  }
-  .w-\[5400px\] {
-    width: 5400px;
   }
   .w-full {
     width: 100%;
@@ -293,17 +269,20 @@
   .gap-10 {
     gap: calc(var(--spacing) * 10);
   }
-  .gap-\[20px\] {
-    gap: 20px;
+  .gap-\[50\] {
+    gap: 50;
+  }
+  .gap-\[50p\] {
+    gap: 50p;
   }
   .gap-\[50px\] {
     gap: 50px;
   }
+  .gap-\[100\] {
+    gap: 100;
+  }
   .gap-\[200px\] {
     gap: 200px;
-  }
-  .gap-\[250px\] {
-    gap: 250px;
   }
   .overflow-auto {
     overflow: auto;
